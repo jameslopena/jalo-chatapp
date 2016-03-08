@@ -1,0 +1,25 @@
+{
+  "name": "jalo-chatapp",
+  "description": "My socket.io web app",
+  "main": "/server/server.js",
+  "authors": [
+    "James Lopena"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jameslopena/jalo-chatapp",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.1"
+  }
+}
